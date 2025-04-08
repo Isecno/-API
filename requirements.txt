@@ -1,1 +1,6 @@
 flask
+flask-wtf
+flask_login
+requests
+werkzeug
+sqlalchemy
